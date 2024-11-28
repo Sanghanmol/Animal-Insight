@@ -1,0 +1,23 @@
+[
+  {
+    "species": "Big Cats",
+    "name": "Tiger",
+    "size": 10,
+    "location": "Asia",
+    "image": "assets/tiger.jpg"
+  },
+  {
+    "species": "Big Cats",
+    "name": "Lion",
+    "size": 8,
+    "location": "Africa",
+    "image": "assets/lion.jpg"
+  },
+  {
+    "species": "Big Cats",
+    "name": "Leopard",
+    "size": 9,
+    "location": "Asia",
+    "image": "assets/leopard.jpg"
+  }
+]
