@@ -1,7 +1,7 @@
 # Animal Insight
 
 ## Overview
-Animal Insight is a responsive web application that categorizes and displays animal data (Dogs, Big Cats, Big Fish) in a user-friendly tabular interface. The application supports features such as adding, editing, and deleting animals while ensuring data validation. 
+Animal Insight is a responsive web application that categorizes and displays animal data (Dogs, Big Cats, Big Fish) in a user-friendly tabular interface. The application supports features such as adding, editing, and deleting animals with persistence across sessions using localStorage while ensuring data validation. 
 
 Additional functionalities:
 - Fully responsive design for mobile, tablet, and desktop views.
@@ -46,7 +46,13 @@ Additional functionalities:
 
 ## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Sanghanmol/Animal-Insight.git
-   
+- Clone the repository: git clone https://github.com/Sanghanmol/Animal-Insight.git
+- Open the application in your browser
+
+---
+
+## Usage
+
+- Viewing Animal Data: The application will display tables of different animal species.
+- Adding Animals: You can add new animal species by clicking the "Add Animal" button.
+- Editing and Deleting Animals: Modify or remove entries via the "Edit" and "Delete" buttons.
