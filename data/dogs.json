@@ -1,0 +1,23 @@
+[
+  {
+    "species": "Dogs",
+    "name": "Rottweiler",
+    "size": 5,
+    "location": "Germany",
+    "image": "assets/rottweiler.jpg"
+  },
+  {
+    "species": "Dogs",
+    "name": "German Shepherd",
+    "size": 6,
+    "location": "Germany",
+    "image": "assets/german-shephard.jpg"
+  },
+  {
+    "species": "Dogs",
+    "name": "Pug",
+    "size": 3,
+    "location": "India",
+    "image": "assets/pug.jpg"
+  }
+]
